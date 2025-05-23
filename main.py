@@ -85,18 +85,12 @@ def send_about(message):
 
     bot.reply_to(message, f"""Xin Chào Bạn {full_name}
 <blockquote>
-Lệnh Cơ Bản
-</blockquote>
-<blockquote>
 │» /help : Lệnh trợ giúp
 │» /admin : Thông tin admin
 │» /spam : Spam SMS FREE
 │» /spamvip : Spam SMS VIP - Mua Vip 30k/Tháng
-│» /share : Free 400 - Vip 1k share trên lần
 │» /id : Lấy ID Tele Của Bản Thân
 │» /voice : Đổi Văn Bản Thành Giọng Nói.
-│» /tiktok : Check Thông Tin - Tải Video Tiktok.
-│» /tool : Tải JirayTool
 │» /time : check thời gian hoạt động
 │» /ad : có bao nhiêu admin
 │» /code : Lấy Code html của web
